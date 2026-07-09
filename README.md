@@ -1,5 +1,3 @@
-# silberstein-negative-campaigning
-
 # Attack Politics under Exposure: The Silberstein Affair and Negative Campaigning (AUTNES 2017)
 
 Replication materials for the master's seminar paper "Attack Politics under
