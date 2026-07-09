@@ -8,16 +8,18 @@ Lucerne, 2026).
 ## Data
 
 The AUTNES source data are distributed under a scientific use licence and
-cannot be redistributed here. Obtain both files from AUSSDA and place the
-CSV data files in `Data/raw/`:
+cannot be redistributed here. Register at AUSSDA (free) and download both
+datasets, then place the CSV data files in `Data/raw/`:
 
 - AUTNES Content Analysis of Party Press Releases: Cumulative File
-  (SUF edition), doi:10.11587/25P2WR  -> `10726_da_en_v1_0.csv`
-- AUTNES Content Analysis of Campaign Facebook Pages 2017 (SUF edition),
-  doi:10.11587/17OKDP  -> `10728_da_en_v1_0.csv`
+  (SUF edition): https://doi.org/10.11587/25P2WR
+  -> file needed: `10726_da_en_v1_0.csv`
+- AUTNES Content Analysis of Campaign Facebook Pages 2017 (SUF edition):
+  https://doi.org/10.11587/17OKDP
+  -> file needed: `10728_da_en_v1_0.csv`
 
-The 2019 Chapel Hill Expert Survey (CHES2019V3.csv) is downloaded
-automatically from chesdata.eu on first run.
+The 2019 Chapel Hill Expert Survey (`CHES2019V3.csv`) is downloaded
+automatically from chesdata.eu on the first run of the script.
 
 ## How to run
 
