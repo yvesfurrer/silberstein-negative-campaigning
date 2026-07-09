@@ -25,7 +25,7 @@ automatically from chesdata.eu on first run.
 2. First run: set `RUN_DATA_PREP <- TRUE` (builds the dyad-day panel and
    saves it to `Data/`). Afterwards set it to `FALSE`.
 3. Run the full script. All figures and tables are written to `Output/`.
-4. Package versions are documented in `Output/sessionInfo.txt`.
+4. Package versions are documented in `sessionInfo.txt`.
 
 ## Notes
 
